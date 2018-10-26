@@ -4,3 +4,5 @@ Example Progress Journal
 
 (October 18)   ////  [Here](Files/Homework_1_BurakhanSel.html)  is my Homework 1
 
+(October 26)   ////  [Here](Files/HW2_BurakhanSel.html)  is my Homework 2
+
