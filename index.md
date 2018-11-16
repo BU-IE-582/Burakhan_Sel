@@ -6,3 +6,4 @@ Example Progress Journal
 
 (October 26)   ////  [Here](Files/HW2_BurakhanSel.html)  is my Homework 2
 
+(November 16)  ////  [Here](Files/Homework_3_BurakhanSel.html)  is my Homework 3 without the code
